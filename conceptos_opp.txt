@@ -1,2 +1,2 @@
 Programacion orientado objetos
-Concepto No 1 La funcionalidad tiene como objetos separados
+Concepto No 1 Herencia, creamos una nueva clase de objeto en donde pueda heredar los mismos atributos.
