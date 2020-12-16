@@ -1,1 +1,2 @@
 Programacion orientado objetos
+Concepto No 1 La funcionalidad tiene como objetos separados
