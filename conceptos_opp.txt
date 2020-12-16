@@ -1,3 +1,7 @@
 Programacion orientado objetos
 Concepto No 1 Herencia, creamos una nueva clase de objeto en donde pueda heredar los mismos atributos.
 Concepto No 2 Los objetos se crean a través de una plantilla o una clase. 
+Concepto No 4 La abstracción conceptos llevar y convertirlos en clase y obtener sus métodos.
+El encapsulamiento, la seguridad de datos protegidos, objetos que no pueden entrar a ninguna información.
+Polimorfismo, notifica a la información de cada objeto y darlo que lo cumpla.
+Herencia, creamos una nueva clase de objeto en donde pueda heredar los mismos atributos.
